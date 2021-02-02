@@ -1,0 +1,70 @@
+:root {
+  --sn-stylekit-base-font-size: 14px;
+
+  --sn-stylekit-font-size-p: 1rem;
+  --sn-stylekit-font-size-editor: 1.21rem;
+
+  --sn-stylekit-font-size-h6: 0.8rem;
+  --sn-stylekit-font-size-h5: 0.9rem;
+  --sn-stylekit-font-size-h4: 1rem;
+  --sn-stylekit-font-size-h3: 1.1rem;
+  --sn-stylekit-font-size-h2: 1.2rem;
+  --sn-stylekit-font-size-h1: 1.3rem;
+
+  --sn-stylekit-neutral-color: #545454;
+  --sn-stylekit-neutral-contrast-color: #FFFFFF;
+
+  --sn-stylekit-info-color: #186cc3;
+  --sn-stylekit-info-contrast-color: #FFFFFF;
+
+  --sn-stylekit-success-color: #2c932d;
+  --sn-stylekit-success-contrast-color: #2c932d;
+
+  --sn-stylekit-warning-color: #db8633;
+  --sn-stylekit-warning-contrast-color: #db8633;
+
+  --sn-stylekit-danger-color: #bb2a44;
+  --sn-stylekit-danger-contrast-color: #bb2a44;
+
+  --sn-stylekit-shadow-color: #000000;
+  --sn-stylekit-background-color: black;
+  --sn-stylekit-border-color: #7B002C;
+  --sn-stylekit-foreground-color: white;
+
+  --sn-stylekit-contrast-background-color: #f6f6f6;
+  --sn-stylekit-contrast-foreground-color: #2e2e2e;
+  --sn-stylekit-contrast-border-color: #7B002C;
+
+  --sn-stylekit-secondary-background-color: #f6f6f6;
+  --sn-stylekit-secondary-foreground-color: #2e2e2e;
+  --sn-stylekit-secondary-border-color: #7B002C;
+
+  --sn-stylekit-secondary-contrast-background-color: #e3e3e3;
+  --sn-stylekit-secondary-contrast-foreground-color: #2e2e2e;
+  --sn-styleki--secondary-contrast-border-color: #a2a2a2;
+
+  --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
+  --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
+
+  --sn-stylekit-paragraph-text-color: #FFFFFF;
+
+  --sn-stylekit-input-placeholder-color: rgb(157, 157, 157);
+  --sn-stylekit-input-border-color: #e3e3e3;
+
+  --sn-stylekit-scrollbar-thumb-color: #7B002C;
+  --sn-stylekit-scrollbar-track-border-color: #000000;
+
+  --sn-stylekit-general-border-radius: 2px;
+
+  --sn-stylekit-monospace-font: 'Ubuntu Mono', courier, monospace;
+  --sn-stylekit-sans-serif-font: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+}
+
+"dock_icon": {
+   "type": "square",
+   "background_color": "#000000",
+   "foreground_color": "#FF005C",
+   "border_color": "#7B002C"
+}
